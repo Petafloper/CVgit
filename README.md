@@ -1,2 +1,2 @@
-# CVgit
+# CVgi
 My CV Responsive
